@@ -56,6 +56,8 @@ By waynehan(韩王宇)
 -->
 
 ---
+layout: image-right
+image: suzhou.png
 transition: fade-out
 ---
 
@@ -82,7 +84,8 @@ transition: fade-out
 
 Read more about [Why Slidev?](https://sli.dev/guide/why) -->
 
-## 家乡：江南何处好，乐居在吴江
+家乡：江南何处好，乐居在吴江
+
 - 60分钟到上海城区，90分钟可达杭州城区
 - 长三角生态绿色一体化发展示范区，两家本土世界五百强
 - 古城区保护 / 苏州工业园区

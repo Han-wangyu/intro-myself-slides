@@ -161,6 +161,8 @@ level: 2
   - 项目介绍: 参考海外知名订餐 App [Diliveroo](https://deliveroo.hk/zh/) 界面的移动端开发项目。
   - 技术栈: <span v-mark.circle.red>React Native</span> + Expo Router + Zustand + React Native Reanimated
 
+<img src="/demo.png" class="absolute right-18 bottom-3 w-[18%] rounded shadow" />
+
 <!--
 项目经历
 -->
